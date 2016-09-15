@@ -1,7 +1,7 @@
 # brunoCandiani-lucasYasuda
 #Projeto do semestre
 
-Tema: 
+Tema: Eventos sociais
 
 Público-alvo: 
 
